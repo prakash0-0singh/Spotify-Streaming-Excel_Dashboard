@@ -1,9 +1,9 @@
-# 🎧 Spotify Streaming Insights (2010–2019)
+# 🎧 Spotify Streaming Insights Dashboard
 
-Welcome to the **Spotify Streaming Insights (2010–2019)** project — a comprehensive Excel-based analysis exploring the top songs and artists of the decade. This project uses Microsoft Excel to uncover trends in genre popularity, playlist influence, and platform dominance, all drawn from actual stream data.
+Welcome to the **Spotify Streaming Insights Dashboard** project — a comprehensive Excel-based analysis exploring the top songs and artists of the decade. This project uses Microsoft Excel to uncover trends in genre popularity, playlist influence, and platform dominance, all drawn from actual stream data.
 
 
-![TASK 18B - Adeniyi Oluwademilade Adedamola](https://github.com/user-attachments/assets/0ebe98c3-a322-49b6-a1d3-d54a35dbde7d)
+<img src="https://github.com/prakash0-0singh/Spotify-Streaming-Excel_Dashboard/blob/main/Assets/Dashboard.png" class="center">
 
 
 ---
@@ -57,19 +57,3 @@ This analysis was performed entirely in **Microsoft Excel** and includes:
 - 🎼 Track musical features (e.g., Major key, Dance Pop genre) that align with audience preferences.  
 - 📈 Encourage consistent artist presence with **multiple hit releases over time**.  
 - 🌍 Leverage YouTube & Apple playlist dominance to drive long-term visibility.
-
----
-
-## 🔗 Connect With Me
-
-- X (Twitter): [@demibolt_](https://twitter.com/demibolt_)  
-- LinkedIn: [Oluwademilade Adeniyi](https://www.linkedin.com/in/oluwademiladeadeniyi/)
-
-
----
-
-## 📌 How to Use This Repo
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/Demibolt007/Spotify-Streaming-Insights-2010-2019.git
